@@ -1,5 +1,6 @@
 {
     "User": {
-        "name": { "string": [ "Иванов Иван Иванович" ]}
+        "name": { "string": [ "Иванов Иван Иванович" ]},
+        "role": { "string": [ "isAdministrator"]}
     }
 }
