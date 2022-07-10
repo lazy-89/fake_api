@@ -1,6 +1,10 @@
 {
     "User": {
-        "name": { "Нагайцев Александр Евгеньевич"},
-        "role": "isAdministrator"
+        "name": {
+            "string": {[
+                "123"
+                       ]
+            }
+        }
     }
 }
