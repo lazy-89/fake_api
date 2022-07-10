@@ -1,9 +1,8 @@
 {
     "User": {
         "name": {
-            "string": {[
+            "string": {
                 "123"
-                       ]
             }
         }
     }
