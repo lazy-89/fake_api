@@ -1,6 +1,7 @@
 {
     "User": {
         "name": { "string": [ "Иванов Иван Иванович" ]},
-        "role": { "string": [ "isAdministrator"]}
+        "role": { "string": [ "isAdministrator"]},
+        "avatar": { "string": [ "/avatar-ivanovii"]}
     }
 }
