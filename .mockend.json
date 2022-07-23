@@ -1,6 +1,7 @@
 {
     "User": {
         "name": { "string": [ "Иванов Иван Иванович" ]},
+        "function": { "string": ["Ведущий специалист" ]},
         "role": { "string": [ "isAdministrator"]},
         "avatar": { "string": [ "https://randomuser.me/api/portraits/men/43.jpg"]}
     }
