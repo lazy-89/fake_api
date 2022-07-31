@@ -4,5 +4,9 @@
         "function": { "string": ["Ведущий специалист" ]},
         "role": { "string": [ "isAdministrator"]},
         "avatar": { "string": [ "https://randomuser.me/api/portraits/men/43.jpg"]}
+    },
+    "Menu": {
+        "id": { "int": { "1" }},
+        "name" : { "string": { "Завод БК" }}
     }
 }
