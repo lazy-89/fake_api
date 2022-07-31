@@ -5,7 +5,7 @@
         "role": { "string": [ "isAdministrator"]},
         "avatar": { "string": [ "https://randomuser.me/api/portraits/men/43.jpg"]}
     },
-    "Menu": {
+    "MenuTop": {
         "id": { "int": { "min": 0, "max": 3 }},
         "name": { "string": [ "БК", "ДБиУВС", "Этилен" ]}
      }        
