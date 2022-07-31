@@ -6,7 +6,7 @@
         "avatar": { "string": [ "https://randomuser.me/api/portraits/men/43.jpg"]}
     },
     "Menu": {
-        "id": { "int": { "min": 0, "max": 100" }}
+        "id": { "int": { "min": 0, "max": 100 }}
      }        
     }
 }
